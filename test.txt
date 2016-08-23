@@ -1,1 +1,3 @@
 First line in test.txt by StevenZ
+
+Edit by StevenZ in branch1 branch
