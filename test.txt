@@ -1,7 +1,1 @@
-First line in test.txt by StevenZ
-
-only left new branch_1
-
-new branch_1 commit
-
-new branch_2 commit
+First line
