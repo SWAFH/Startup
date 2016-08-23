@@ -1,7 +1,4 @@
 First line in test.txt by StevenZ
 
-First edit in branch 1
+only left new branch_1
 
-Second edit in branch1
-
-first edit in branch2
