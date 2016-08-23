@@ -4,4 +4,4 @@ First edit in branch 1
 
 Second edit in branch1
 
- to master
+first edit in branch2
