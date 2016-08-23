@@ -1,26 +1,3 @@
-First line
-
-asdf
-as
-sd
-sad
-sad
-fasd
-fas
-d
-ad
-sf
-asdf
-as
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbb
-
-s
-adf
-asdf
-as
-dfsa
-
-this is branch_3
-this is branch_3_1
+First line in branch 3
 
 
